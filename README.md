@@ -1,4 +1,4 @@
-# GTA San Andreas Blow Up All Cars Cheat Player Immunity
+# GTA III/Vice City/San Andreas Blow Up All Cars Cheat Player Immunity
 
 This mod ensures that when the cheat to blow up all cars is activated, the player's vehicle remains unaffected, similar to how it works in the Definitive Edition.
 
